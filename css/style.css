@@ -1,15 +1,15 @@
 header {
-	font-size: 40px;
+  font-size: 50px;
 }
 
 .one {
-	color: blueviolet;
+  color: #979797;
 }
 
 .one1 {
-	color: rgb(91, 12, 99);
+  color: black;
 }
 
 .red {
-	color: rgb(255, 126, 126);
+  color: black;
 }
