@@ -9,3 +9,7 @@ header {
 .one1 {
   color: black;
 }
+
+body {
+  background: url(../);
+}
